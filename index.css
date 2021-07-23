@@ -40,18 +40,33 @@ header{
     border: none;
     border-radius: 40%;
 }
-img{
+#img1{
     position: fixed;
-    right: 3px;
-    top: 200px;
+    right: 370px;
+    top: 430px;
+    opacity: 1;
+}
+#image2{
+    position: fixed;
+    right: 610px;
+    top: 400px;
+    opacity: 1;
 }
 #semicircle{
     height: 1000px;
     width: 1000px;
-    background-color: #649549;
+    background-color: #5fc22a;
     position: fixed;
     right: -80px;
     top: -500px;
     border-radius: 50%;
     opacity: 0.4;
+}#semicircle2{
+    height: 450px;
+    width: 450px;
+    border-top: 3px dashed green;
+    border-radius: 50%;
+    position: fixed;
+    right: 220px;
+    top: 260px;
 }
