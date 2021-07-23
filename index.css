@@ -52,6 +52,18 @@ header{
     top: 400px;
     opacity: 1;
 }
+#image3{
+    position: fixed;
+    right: 180px;
+    top: 400px;
+    opacity: 1;
+}
+#image4{
+    position: fixed;
+    right: 385px;
+    top: 210px;
+    opacity: 1;
+}
 #semicircle{
     height: 1000px;
     width: 1000px;
