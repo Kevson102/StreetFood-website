@@ -95,3 +95,6 @@ header{
     left: 650px;
     top: -1250px;
 }
+#section2a{
+    display: flex;
+}
