@@ -1,7 +1,14 @@
 .section_1{
     background-color: rgb(196, 194, 194);
+    height: 600px;
 }
 header{
     display: flex;
     justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#star{
+    font-size: 70px;
+    padding: 2px;
 }
