@@ -46,11 +46,12 @@ img{
     top: 200px;
 }
 #semicircle{
-    height: 550px;
-    width: 550px;
+    height: 1000px;
+    width: 1000px;
     background-color: #649549;
     position: fixed;
-    right: -50px;
-    top: -275px;
+    right: -80px;
+    top: -500px;
     border-radius: 50%;
+    opacity: 0.4;
 }
