@@ -3,7 +3,7 @@ body{
 }
 .section_1{
     background-color: rgb(233, 230, 230);
-    height: 600px;
+    height: 500px;
 }
 header{
     display: flex;
@@ -41,36 +41,49 @@ header{
     border-radius: 40%;
 }
 #img1{
-    position: fixed;
-    right: 370px;
-    top: 430px;
+    position: relative;
+    left: 800px;
+    top: -1530px;
     opacity: 1;
 }
 #image2{
-    position: fixed;
-    right: 610px;
-    top: 400px;
+    position: relative;
+    left: 595px;
+    top: -1705px;
     opacity: 1;
 }
 #image3{
-    position: fixed;
-    right: 180px;
-    top: 400px;
+    position: relative;
+    left: 1025px;
+    top: -1790px;
     opacity: 1;
 }
 #image4{
-    position: fixed;
-    right: 385px;
-    top: 210px;
+    position: relative;
+    left: 815px;
+    top: -2100px;
+    opacity: 1;
+}
+#image5{
+    position: relative;
+    left: 965px;
+    top: -2130px;
+    opacity: 1;
+}
+#image6{
+    position: relative;
+    left: 665px;
+    top: -2245px;
     opacity: 1;
 }
 #semicircle{
     height: 1000px;
     width: 1000px;
+    border: 1px;
     background-color: #5fc22a;
-    position: fixed;
-    right: -80px;
-    top: -500px;
+    position: relative;
+    left: 400px;
+    top: -1000px;
     border-radius: 50%;
     opacity: 0.4;
 }#semicircle2{
@@ -78,7 +91,7 @@ header{
     width: 450px;
     border-top: 3px dashed green;
     border-radius: 50%;
-    position: fixed;
-    right: 220px;
-    top: 260px;
+    position: relative;
+    left: 650px;
+    top: -1250px;
 }
