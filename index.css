@@ -1,5 +1,8 @@
+body{
+    font-family: 'poppins' Arial, Helvetica, sans-serif;
+}
 .section_1{
-    background-color: rgb(196, 194, 194);
+    background-color: rgb(211, 208, 208);
     height: 600px;
 }
 header{
@@ -9,6 +12,24 @@ header{
     padding-right: 40px;
 }
 #star{
-    font-size: 70px;
-    padding: 2px;
+    font-size: 40px;
+    color: rgb(18, 22, 12);
+}
+#center1{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#name1{
+    display: flex;
+    padding-left: 50px;
+    font-size: xx-large;
+}
+.paragraph1{
+    width: 300px;
+    height: 250px;
+    border: 1px solid black;
+    position: absolute;
+    left: 10;
 }
