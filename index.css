@@ -8,8 +8,8 @@ body{
 header{
     display: flex;
     justify-content: space-between;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 #star{
     font-size: 40px;
@@ -28,8 +28,15 @@ header{
 }
 .paragraph1{
     width: 300px;
-    height: 250px;
+    height: 280px;
     border: 1px solid black;
-    position: absolute;
-    left: 10;
+    padding-left: 60px;
+}
+.button{
+    background-color: #6CB840;
+    width: 90px;
+    text-align: center;
+    padding: 5px;
+    border: none;
+    border-radius: 40%;
 }
