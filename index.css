@@ -199,7 +199,7 @@ p{
 }
 .contactus{
     width: 1300px;
-    height: 570px;
+    height: 450px;
     position: relative;
     left: 15px;
     background-color: #FFD77C;
@@ -211,4 +211,9 @@ input{
     position: relative;
     left: 450px;
     top: 50px;
+}
+.contactus>.button{
+    position: relative;
+    left: 600px;
+    top: 100px;
 }
