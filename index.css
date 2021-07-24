@@ -1,5 +1,5 @@
 body{
-    font-family: 'poppins' Arial, Helvetica, sans-serif;
+    font-family: 'Poppins' ,sans-serif;
 }
 .section_1{
     background-color: rgb(233, 230, 230);
@@ -31,6 +31,19 @@ header{
     height: 280px;
     border: 1px solid black;
     padding-left: 60px;
+}
+#paragraph2{
+    width: 360px;
+    height: 200px;
+    border: 1px solid black;
+    position: relative;
+    left: 900px;
+    top: -450px;
+    text-align: center;
+    font-size: large;
+}
+#paragraph2>h1{
+    color: #EAAB1B;
 }
 .button{
     background-color: #6CB840;
@@ -76,6 +89,10 @@ header{
     top: -2245px;
     opacity: 1;
 }
+#image7{
+    position: relative;
+    right: 100px;
+}
 #semicircle{
     height: 1000px;
     width: 1000px;
@@ -95,6 +112,7 @@ header{
     left: 650px;
     top: -1250px;
 }
-#section2a{
+/*#section2a{
     display: flex;
-}
+    align-items: center;
+}*/
