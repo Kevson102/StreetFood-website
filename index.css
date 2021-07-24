@@ -217,3 +217,11 @@ input{
     left: 600px;
     top: 100px;
 }
+footer{
+    width: 1300px;
+    height: 250px;
+    background-color: #C9ECB5;
+    position: relative;
+    left: 15px;
+    top: 30px;
+}
