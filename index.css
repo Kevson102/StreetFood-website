@@ -6,6 +6,7 @@ body{
 .section_1{
     background-color: rgb(233, 230, 230);
     height: 500px;
+    width: 1350px;
 }
 header{
     display: flex;
@@ -139,7 +140,7 @@ height: 820px;
     position: relative;
     left: 15px;
 }
-.exploremenu>h3{
+.exploremenu>h3, .HotDeals>h3{
     text-align: center;
     font-size: 40px;
 }
