@@ -101,6 +101,15 @@ header{
     bottom: 100px;
     opacity: 1;
 }
+#image9{
+    position: relative;
+    bottom: 105px;
+}
+#image10{
+    position: relative;
+    bottom: 470px;
+    left: 50px;
+}
 #semicircle{
     height: 1000px;
     width: 1000px;
@@ -159,7 +168,7 @@ p{
 }
 .HotDeals{
     width: 1300px;
-    height: 450px;
+    height: 600px;
     background-color: #C9ECB5;
     position: relative;
     left: 15px;
