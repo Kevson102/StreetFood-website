@@ -219,9 +219,42 @@ input{
 }
 footer{
     width: 1300px;
-    height: 250px;
+    height: 230px;
     background-color: #C9ECB5;
     position: relative;
     left: 15px;
     top: 30px;
+}
+#time1, #time2{
+    width: 200px;
+    height: 100px;
+    border: 1px solid black
+    
+}
+#time1>h5, #time2>h5{
+    margin: 0;
+    font-size: larger;
+}
+#location{
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    position: relative;
+    left: 300px;
+    bottom: 150px;
+    padding-left: 50px;
+}
+#follow{
+    width: 250px;
+    height: 130px;
+    border: 1px solid black;
+    position: relative;
+    left: 900px;
+    bottom: 230px;
+}
+#button{
+    border-radius: 0%;
+    position: relative;
+    left: 1180px;
+    bottom: 270px;
 }
