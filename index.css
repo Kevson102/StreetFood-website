@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins' ,sans-serif;
+    height: auto;
+    overflow-x: hidden;
 }
 .section_1{
     background-color: rgb(233, 230, 230);
@@ -125,7 +127,7 @@ height: 820px;
     height: 500px;
     background-color: #e0f0d6;
     position: relative;
-    left: 40px;
+    left: 15px;
 }
 .exploremenu>h3{
     text-align: center;
@@ -136,7 +138,7 @@ height: 820px;
     height: 130px;
     background-color: white;
     position: relative;
-    left: 100px;
+    left: 50px;
     text-align: center;
     border-radius: 0 0 35% 0;
     padding-left: 60px;
@@ -150,7 +152,7 @@ height: 820px;
 p{
     margin: 0;
 }
-.row1{
+.row1, .row2{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
