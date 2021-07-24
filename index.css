@@ -32,13 +32,12 @@ header{
 .paragraph1{
     width: 300px;
     height: 280px;
-    border: 1px solid black;
+    border: 1px solid rgb(233, 230, 230);
     padding-left: 60px;
 }
 #paragraph2{
     width: 360px;
     height: 200px;
-    border: 1px solid black;
     position: relative;
     left: 900px;
     top: -450px;
@@ -116,7 +115,7 @@ header{
     width: 1000px;
     border: 1px;
     border-radius: 0 0 150% 150%;
-    background-color: #5fc22a;
+    background-color: #649549;
     position: relative;
     left: 400px;
     top: -1000px;
@@ -177,7 +176,6 @@ p{
     left: 15px;
 }
 #combo{
-    border: 1px solid black;
     width: 320px;
     position: relative;
     bottom: 900px;
@@ -228,7 +226,6 @@ footer{
 #time1, #time2{
     width: 200px;
     height: 100px;
-    border: 1px solid black
     
 }
 #time1>h5, #time2>h5{
@@ -238,16 +235,15 @@ footer{
 #location{
     width: 200px;
     height: 100px;
-    border: 1px solid black;
+    border-left: 3px dashed #77bb50;
     position: relative;
     left: 300px;
     bottom: 150px;
     padding-left: 50px;
 }
 #follow{
-    width: 250px;
+    width: 270px;
     height: 130px;
-    border: 1px solid black;
     position: relative;
     left: 900px;
     bottom: 230px;
@@ -262,4 +258,10 @@ footer{
     position: relative;
     left: 1220px;
     bottom: 350px;
+}
+span{
+    color: #6CB840;
+}
+h1>span{
+    color: #EAAB1B;
 }
