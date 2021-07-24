@@ -108,7 +108,7 @@ header{
 }
 #image10{
     position: relative;
-    bottom: 470px;
+    bottom: 460px;
     left: 50px;
 }
 #semicircle{
@@ -140,9 +140,11 @@ height: 820px;
     position: relative;
     left: 15px;
 }
-.exploremenu>h3, .HotDeals>h3{
+.exploremenu>h3, .HotDeals>h3, .contactus>h3{
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 15px;
 }
 #content1{
     width: 200px;
@@ -161,7 +163,7 @@ height: 820px;
     padding: 0;
 }
 p{
-    margin: 0;
+    margin: 3px;
 }
 .row1, .row2{
     display: flex;
@@ -169,8 +171,44 @@ p{
 }
 .HotDeals{
     width: 1300px;
-    height: 600px;
+    height: 570px;
     background-color: #C9ECB5;
     position: relative;
     left: 15px;
+}
+#combo{
+    border: 1px solid black;
+    width: 320px;
+    position: relative;
+    bottom: 900px;
+    left: 800px;
+}
+.HotDeals>h2{
+    width: 380px;
+    color: #6CB840;
+    font-size: 30px;
+    position: relative;
+    bottom: 880px;
+    left: 800px;
+}
+#combo>h3{
+    margin: 1;
+}
+#text1>p{
+    text-align: center;
+}
+.contactus{
+    width: 1300px;
+    height: 570px;
+    position: relative;
+    left: 15px;
+    background-color: #FFD77C;
+}
+input{
+    width: 400px;
+    padding: 20px;
+    border-radius: 35%;
+    position: relative;
+    left: 450px;
+    top: 50px;
 }
