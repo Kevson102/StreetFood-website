@@ -99,6 +99,7 @@ header{
     position: relative;
     right: 200px;
     bottom: 100px;
+    opacity: 1;
 }
 #semicircle{
     height: 1000px;
@@ -124,8 +125,8 @@ height: 820px;
 }
 .exploremenu{
     width: 1300px;
-    height: 500px;
-    background-color: #e0f0d6;
+    height: 450px;
+    background-color: #e4f7d9;
     position: relative;
     left: 15px;
 }
@@ -155,4 +156,11 @@ p{
 .row1, .row2{
     display: flex;
     justify-content: space-evenly;
+}
+.HotDeals{
+    width: 1300px;
+    height: 450px;
+    background-color: #C9ECB5;
+    position: relative;
+    left: 15px;
 }
