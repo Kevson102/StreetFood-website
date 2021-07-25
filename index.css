@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins' ,sans-serif;
+    width: 100%;
+    overflow-x: hidden;
 }
 .section_1{
     background-color: rgb(233, 230, 230);
